@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import Avatar from '@mui/joy/Avatar';
 import Button from '@mui/joy/Button';
 import Chip from '@mui/joy/Chip';

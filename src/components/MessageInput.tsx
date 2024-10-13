@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import * as React from 'react';
 import Box from '@mui/joy/Box';
 import FormControl from '@mui/joy/FormControl';

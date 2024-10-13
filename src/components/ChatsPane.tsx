@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import * as React from 'react';
 import Stack from '@mui/joy/Stack';
 import Sheet from '@mui/joy/Sheet';

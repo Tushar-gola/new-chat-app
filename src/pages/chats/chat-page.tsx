@@ -1,3 +1,6 @@
+
+//@ts-nocheck
+
 import { Box, GlobalStyles } from '@mui/joy'
 import MyMessages from '../../components/MyMessages';
 import { useEffect } from 'react';

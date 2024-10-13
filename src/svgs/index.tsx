@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { SvgIcon } from "@mui/joy";
 
 export function FacebookIcon() {

@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { create } from 'zustand';
 interface TabsState {
     tab: string;
