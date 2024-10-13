@@ -31,12 +31,6 @@ const App = () => {
         console.log('Service Worker registration failed:', err);
       });
   }
-  socket.on('connect', () => {
-    console.log('Connected to server');
-  });
-  socket.on('disconnect', () => {
-    console.log('Disconnected from server, trying to reconnect...');
-});
   return (
     <div>
       <QueryClientProvider client={queryClient}>
