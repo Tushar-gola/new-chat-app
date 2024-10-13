@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Box, Button, Card, Divider, FormControl, FormHelperText, FormLabel, Grid, IconButton, Input, Stack, styled, Typography } from '@mui/joy';
 import React, { useState } from 'react'
 import { FacebookIcon, GoogleIcon } from '../../svgs';

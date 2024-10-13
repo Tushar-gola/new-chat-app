@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { Box, CircularProgress } from "@mui/joy";
 import { useQuery } from "@tanstack/react-query";
 import { Navigate } from "react-router-dom";

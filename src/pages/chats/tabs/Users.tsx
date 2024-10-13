@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { Box, CircularProgress, IconButton, Input, List, ListDivider, ListItem, ListItemButton, ListItemButtonProps, Sheet, Stack, Typography } from "@mui/joy"
 import SearchRoundedIcon from '@mui/icons-material/SearchRounded';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';

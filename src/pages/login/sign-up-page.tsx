@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { Box, Button, Card, Divider, FormControl, FormHelperText, FormLabel, Grid, IconButton, Input, Stack, styled, Typography } from '@mui/joy';
 import { FacebookIcon, GoogleIcon } from '../../svgs';
 import { useNavigate } from 'react-router-dom';

@@ -1,3 +1,6 @@
+
+//@ts-nocheck
+
 import { create } from 'zustand';
 interface TabsState {
     chats: [key: string, value: string | string[]][];

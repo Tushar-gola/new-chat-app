@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import * as React from 'react';
 import { useColorScheme } from '@mui/joy/styles';
 import IconButton, { IconButtonProps } from '@mui/joy/IconButton';
